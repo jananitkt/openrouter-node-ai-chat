@@ -112,12 +112,6 @@ Here are some sample questions you can ask the AI for screenshot purposes:
 
 ---
 
-## 🙋 Support
-
-If you're stuck, feel free to raise an issue or email your questions to `your.email@example.com`.
-
----
-
 ## 📜 License
 
 MIT
