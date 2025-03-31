@@ -6,6 +6,14 @@ This is a secure, full-stack AI chatbot built using:
 - 🧠 OpenRouter AI API (Mistral model)
 - 💬 Frontend UI in HTML + Bootstrap
 
+---
+
+## 📸 Preview
+
+<img src="https://github.com/jananitkt/openrouter-node-ai-chat/blob/main/openrouter-ai.png" alt="openrouter-ai UI Screenshot" width="100%" />
+
+---
+
 ## 🔐 API Security
 
 OpenRouter does **not support frontend-only API usage**. This project uses a secure backend proxy (Node.js) to protect your API key.
